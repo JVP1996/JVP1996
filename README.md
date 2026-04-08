@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 Here are some ideas to get you started:
-
-<p align="left">
-  <img src="./profile/stats.svg" width="50%" />
-  <img src="./profile/top-langs.svg" width="50%" />
-</p>
+<div>
+  <a href="https://github.com/JVP1996">
+  <img height="180cm" src="./profile/stats.svg" width="50%" />
+  <img height="180cm" src="./profile/top-langs.svg" width="50%" />
+</div>
