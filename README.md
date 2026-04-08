@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-<p align="center">
+<p align="left">
   <img src="./profile/stats.svg" width="48%" />
   <img src="./profile/top-langs.svg" width="48%" />
 </p>
