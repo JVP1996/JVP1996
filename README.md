@@ -1,7 +1,7 @@
-# 👨🏾‍💻João Santos | Ciência da Computação
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=23BAD2D5&width=435&lines=Ol%C3%A1%2C+eu+me+chamo+Jo%C3%A3o;Bem+vindo+ao+meu+perfil!!+%CB%99%E1%B5%95%CB%99" alt="Typing SVG" /></a>
+</div>
 <br>
-
 <div>
   <a href="https://github.com/JVP1996">
   <img height="160em" src="./profile/stats.svg" />
@@ -9,6 +9,7 @@
 </div>
 <br>
 <h3 align="left">💻Linguagens:</h3>
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
